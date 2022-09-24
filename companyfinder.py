@@ -1,5 +1,3 @@
-print('hello')
-
 import re
 
 regex =  r'^.*?,.*?,(.*?),.*$'
